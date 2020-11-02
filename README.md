@@ -1,5 +1,5 @@
 
-### 1. [线性回归 (Linear Regression)](https://github.com/Liying1996/machine_learining/blob/master/Logistic_regression.ipynb)
+### [1. 线性回归 (Linear Regression)](https://github.com/Liying1996/machine_learining/blob/master/Logistic_regression.ipynb)
   
 1). 简单线性回归概述、损失函数的推导过程；  
 2). 自己实现简单线性回归及简化（向量化）；  
@@ -8,22 +8,21 @@
 5). 自己实现多元线性回归；  
 5). sklearn中的多元线性回归。  
 
-【以上在Linear_Regression.ipynb】
 
 ---
 
-### 2. 多项式回归 (Polynomial Regression)
+### [2. 多项式回归 (Polynomial Regression)](https://github.com/Liying1996/machine_learining/blob/master/Polynomial_Regression.ipynb)
 1). 多项式回归的概念；  
 2). sklearn中的多项式回归；  
 3). 理解过拟合与欠拟合，使用交叉验证；  
 4). 偏差方差平衡；  
 5). 模型泛化与岭回归(Ridge Regression)；  
 6). Lasso正则化。  
-【以上在Polynomial_Regression.ipynb】
+
 
 ---
 
-### 3. 逻辑回归 (Logistic Regression)
+### [3. 逻辑回归 (Logistic Regression)](https://github.com/Liying1996/machine_learining/blob/master/Logistic_regression.ipynb)
 1). 逻辑回归概述；  
 2). 逻辑回归的损失函数推导及求解；  
 3). 自己实现逻辑回归；  
@@ -35,7 +34,7 @@
 
 ---
 
-### 4. K最近邻 (K-Nearest Neighbor)
+### [4. K最近邻 (K-Nearest Neighbor)](https://github.com/Liying1996/machine_learining/blob/master/KNN.ipynb)
 1). KNN的概述和计算；    
 2). 自己实现KNN算法；  
 3). sklearn中的实现；  
@@ -46,7 +45,7 @@
 
 ---
 
-### 5. 决策树 (Decision Tree)
+### [5. 决策树 (Decision Tree)](https://github.com/Liying1996/machine_learining/blob/master/Decision_tree.ipynb)
 1). 决策树的概念；  
 2). 什么是信息熵；  
 3). 什么是信息增益；  
@@ -57,7 +56,7 @@
 
 ---
 
-### 6. 支撑向量机 (Support Vector Machine) 
+### [6. 支撑向量机 (Support Vector Machine)](https://github.com/Liying1996/machine_learining/blob/master/SVM.ipynb)
 1). SVM的概念及公式推导；  
 2). Soft Margin SVM的理解和推导；  
 3). Soft Margin SVM在sklearn中的实现；  
@@ -68,7 +67,7 @@
 
 ---
 
-### 7. 集成学习 (Ensemble Learning)
+### [7. 集成学习 (Ensemble Learning)](https://github.com/Liying1996/machine_learining/blob/master/Ensemble_Learning.ipynb)
 1). 集成学习的概念；  
 2). sklearn中的集成学习(Hard/Soft)；  
 3). Bagging与Pasting的理解；  
@@ -80,7 +79,7 @@
 
 ---
 
-### 8. 主成分分析 (Principal Component Analysis)
+### [8. 主成分分析 (Principal Component Analysis)](https://github.com/Liying1996/machine_learining/blob/master/PCA.ipynb)
 1). 主成分分析的概念；  
 2). 梯度上升法求解；  
 3). 自己实现主成分分析；  
@@ -91,7 +90,7 @@
 
 ---
 
-### 9. 梯度下降法 (Gradient Decent)
+### [9. 梯度下降法 (Gradient Decent)](https://github.com/Liying1996/machine_learining/blob/master/Gradient_descent.ipynb)
 1). 梯度下降法的概念；  
 2). 梯度下降法的实现；  
 3). 线性回归中的梯度下降法；  
@@ -102,7 +101,7 @@
 
 ---
 
-### 10. Numpy基础
+### [10. Numpy基础](https://github.com/Liying1996/machine_learining/blob/master/Basic_numpy.ipynb)
 1). 创建numpy数组/矩阵；  
 2). 合并；  
 3). 分割；  
