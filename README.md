@@ -30,7 +30,6 @@
 5). 决策边界；  
 6). 在逻辑回归中使用多项式特征；  
 7). 多分类问题(OvR/OvO)。  
-【以上在Logistic_regression.ipynb】
 
 ---
 
@@ -52,7 +51,6 @@
 4). 基尼(Gini)系数及计算方法；  
 5). 调整KNN的参数；  
 6). 决策树的局限性。  
-【以上在Decision_tree.ipynb】
 
 ---
 
@@ -63,7 +61,6 @@
 4). 在SVM中使用多项式特征；  
 5). 多项式核函数；  
 6). 高斯核函数(RBF)；  
-【以上在SVM.ipynb】
 
 ---
 
@@ -75,7 +72,6 @@
 5). 集成学习解决回归问题；  
 6). Ada Boosting 与 Gradient Boosting；  
 7). Stacking的概念。  
-【以上在Ensemble_Learning.ipynb】
 
 ---
 
@@ -86,7 +82,6 @@
 4). sklearn中的PCA；  
 5). 使用手写数据集；  
 6). PCA降噪。  
-【以上在PCA.ipynb】
 
 ---
 
@@ -97,7 +92,6 @@
 4). 向量化与数据标准化；  
 5). 梯度下降法的优势；  
 6). 随机梯度下降法(stochastic gradient decent)。  
-【以上在Gradient_descent.ipynb】
 
 ---
 
@@ -108,6 +102,5 @@
 4). 矩阵运算；  
 5). 聚合运算；  
 6). 索引。  
-【以上在Basic_numpy.ipynb】
 
 ---
