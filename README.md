@@ -98,8 +98,8 @@
 ### [10. 模型的评价标准](https://github.com/Liying1996/machine_learining/blob/master/Evaluation_metrics.ipynb)
 1). 准确度的陷阱；  
 2). 混淆矩阵；  
-3). 精准率和召回率；
-4). F1 score；  
+3). 精准率和召回率；   
+4). F1 score；     
 5). PR曲线；  
 6). ROC曲线。
 
