@@ -95,7 +95,17 @@
 
 ---
 
-### [10. Numpy基础](https://github.com/Liying1996/machine_learining/blob/master/Basic_numpy.ipynb)
+### [10. 模型的评价标准](https://github.com/Liying1996/machine_learining/blob/master/Evaluation_metrics.ipynb)
+1). 准确度的陷阱；  
+2). 混淆矩阵；  
+3). 精准率和召回率；
+4). F1 score；  
+5). PR曲线；  
+6). ROC曲线。
+
+---
+
+### [11. Numpy基础](https://github.com/Liying1996/machine_learining/blob/master/Basic_numpy.ipynb)
 1). 创建numpy数组/矩阵；  
 2). 合并；  
 3). 分割；  
