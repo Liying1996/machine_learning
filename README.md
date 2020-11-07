@@ -1,5 +1,5 @@
 
-### [1. 线性回归 (Linear Regression)](https://github.com/Liying1996/machine_learining/blob/master/Logistic_regression.ipynb)
+### [1. 线性回归 (Linear Regression)](https://github.com/Liying1996/machine_learining/blob/master/Linear_regression.ipynb)
   
 1). 简单线性回归概述、损失函数的推导过程；  
 2). 自己实现简单线性回归及简化（向量化）；  
